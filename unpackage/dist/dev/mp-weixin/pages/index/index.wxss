@@ -1,0 +1,61 @@
+
+.proj_menu.data-v-57280228 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+}
+.proj_name.data-v-57280228 {
+	height: 50px;
+	line-height: 50px;
+	background-color: rgb(255, 236, 139, .5);
+	text-align: center;
+	font-family: "serif", "Times New Roman", Times;
+	border: 1px solid #fff;
+	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.6);
+}
+.sub_menu.data-v-57280228 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+}
+.sub_menu_name.data-v-57280228 {
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	font-family: "serif", "Times New Roman", Times;
+}
+.addNotePaper.data-v-57280228 {
+	display: block;
+	line-height: 70px;
+	text-align: center;
+	height: 50px;
+	width: 50px;
+	background-color: rgba(255, 0, 0, 0.8);
+	border-radius: 30px;
+	position: fixed;
+	bottom: 60px;
+	right: 15px;
+	color: white;
+	box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.6);
+}
+._img.data-v-57280228 {
+	width: 30px;
+	height: 30px;
+}
+.update_title_name.data-v-57280228 {
+	position: fixed;
+	top: 40%;
+	left: 40%;
+}
+.hover_class.data-v-57280228{
+	background-color: rgba(140,140,140,.2);
+}
+

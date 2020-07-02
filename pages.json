@@ -1,0 +1,45 @@
+{
+	"pages": [{
+		"path": "pages/index/index",
+		"style": {}
+	}, {
+		"path": "pages/search/search",
+		"style": {}
+	}    ,{
+            "path" : "pages/notepaperList/notepaperList",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/notepaperDetail/notepaperDetail",
+            "style" : {}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarBackgroundColor": "white",
+		"backgroundColor": "white"
+	},
+	"easycom": {
+		"autoscan": true,
+		"custom": {
+			"test": "@/components/test.vue"
+		}
+	},
+	"tabBar": {
+	    "color": "#7A7E83",
+	    "selectedColor": "#3cc51f",
+	    "borderStyle": "black",
+	    "backgroundColor": "#ffffff",
+	    "list": [{
+	        "pagePath": "pages/index/index",
+	        "iconPath": "static/tabs/home.png",
+	        "selectedIconPath": "static/tabs/home-active.png",
+	        "text": "首页"
+	    }, {
+	        "pagePath": "pages/search/search",
+	        "iconPath": "static/tabs/orders.png",
+	        "selectedIconPath": "static/tabs/orders-active.png",
+	        "text": "搜索"
+	    }]
+	}
+}

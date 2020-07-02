@@ -1,0 +1,20 @@
+
+.title_div.data-v-7fb5f89e{
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-box-orient: horizontal;
+		-webkit-box-direction: normal;
+		-webkit-flex-direction: row;
+		        flex-direction: row;
+}
+.title.data-v-7fb5f89e{
+  font-size: 18px;
+  font-weight: bold;
+}
+.content.data-v-7fb5f89e{
+  font-size: 16px;
+}
+.content_div.data-v-7fb5f89e{
+}
+

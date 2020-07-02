@@ -1,0 +1,10 @@
+
+.search_main.data-v-4cedc0c6 {
+  background-color: rgba(255, 255, 255, 0.2);
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  margin-bottom:10px;
+}
+.van-search__action.data-v-4cedc0c6 {
+  font-size: 16px;
+}
+
